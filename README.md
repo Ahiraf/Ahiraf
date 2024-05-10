@@ -30,3 +30,10 @@ I am currently pursuing a BSc. in Computer Science and Engineering. I have recen
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Ahiraf/_Competitive_Programming_" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahiraf&repo=_Competitive_Programming_&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+![](https://komarev.com/ghpvc/?username=Ahiraf
+![](https://komarev.com/ghpvc/?username=your-github-Ahiraf&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=your-github-Ahiraf&color=dc143c)
+![](https://komarev.com/ghpvc/?username=your-github-Ahiraf&style=flat-square)
+![](https://komarev.com/ghpvc/?username=your-github-Ahiraf&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=your-github-Ahiraf&base=1000)
+![](https://komarev.com/ghpvc/?username=your-github-Ahiraf&abbreviated=true)
