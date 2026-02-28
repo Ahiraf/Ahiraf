@@ -3,8 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Competitive Programmer || Student || Learner
 --------------------------------------------
-
-I am currently pursuing a BSc. in Computer Science and Engineering. I have recently started learning competitive programming, and I find it enjoyable to explore new concepts and techniques.
+I am currently pursuing a BSc in Computer Science and Engineering. I am passionate about extracting insights from data, learning machine learning, and applying analytical thinking to real-world problems.
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [www.linkedin.com/in/fariha-rayhan-mim-590464283](mailto:www.linkedin.com/in/fariha-rayhan-mim-590464283)
