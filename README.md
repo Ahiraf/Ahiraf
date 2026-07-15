@@ -22,17 +22,33 @@ existing codebases as much as building new ones.
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### 🛡️ [ClimaGuard](https://github.com/Ahiraf/ClimaGuard) &nbsp;·&nbsp; [🌐 Live Demo](https://clima-guard-qepp.vercel.app) &nbsp;·&nbsp; [▶️ Demo Video](https://youtu.be/07Hz9mUY9_Y)
+
+An AI-powered climate-safety assistant for children across **66 high-risk
+countries**. Real-time risk assessment, an AI health advisor, photo analysis, and
+a BigQuery-backed global heatmap — **fully localized in 55 languages** with
+offline support and PDF export. Built with **Next.js** and deployed on Vercel.
+
+`Next.js` · `TypeScript` · `Tailwind CSS` · `Google Gemini` · `Firebase` · `BigQuery` · `Leaflet`
+
+### 🧪 [PhysicsLab BD](https://github.com/Ahiraf/PhysicsLab-BD)
+
+**48 interactive physics simulations** for Bangladesh HSC students, organized by
+NCTB chapter. Students move sliders and watch the physics happen live — with the
+controlling values, the formula behind each topic, and AI-assisted explanations.
+Built with **Next.js (App Router)**.
+
+`Next.js` · `React` · `Claude AI` · `KaTeX`
 
 ### 🏠 [House Recommendation System](https://github.com/Ahiraf/House-Recommendation-System)
 
-A content-based **Machine Learning** recommender for housing in Bangladesh.
-It scales listing features with scikit-learn, ranks homes by best fit with a
-per-criterion *"Why this match?"* breakdown, finds similar homes using a
-**k-Nearest-Neighbours** model, and supports natural-language search powered by
-OpenAI — all in an interactive Streamlit app.
+A content-based **Machine Learning** recommender for housing in Bangladesh —
+scikit-learn feature scaling, **k-Nearest-Neighbours** similarity, and OpenAI
+natural-language search in an interactive Streamlit app.
 
-`Python` · `scikit-learn (KNN)` · `Streamlit` · `OpenAI` · `pandas` · `SQLite`
+`Python` · `scikit-learn (KNN)` · `Streamlit` · `OpenAI`
 
 ---
 
