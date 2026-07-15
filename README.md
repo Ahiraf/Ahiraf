@@ -50,11 +50,11 @@ OpenAI — all in an interactive Streamlit app.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ahiraf&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
+![Stats](https://github-readme-stats.shion.dev/api?username=Ahiraf&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
 
 ![Streak](https://streak-stats.demolab.com/?user=Ahiraf&theme=midnight-purple&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahiraf&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Ahiraf&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahiraf&bg_color=1a1b27&color=a277ff&line=a277ff&point=ffffff&area=true&hide_border=true)
 
